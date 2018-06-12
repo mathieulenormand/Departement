@@ -1,6 +1,5 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/8e3482c7e2844270bd1f542eef91c1ff)](https://www.codacy.com/app/mathieulenormand/Departement?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mathieulenormand/Departement&amp;utm_campaign=Badge_Grade)
 
-![GitHub commits](https://img.shields.io/github/commits-since/SubtitleEdit/subtitleedit/3.4.7.svg)
 # Departement
 
 One Paragraph of project description goes here
@@ -33,4 +32,4 @@ See also the list of [contributors](https://github.com/your/project/contributors
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Motivation
-I want to master java and build on android device 
+I want to master java and build on android device
